@@ -1,6 +1,6 @@
 
 import { Measures } from './measures';
-const h1 = {
+const h23 = {
            fontFamily: "Advent Pro",
            fontStyle: "normal",
            fontWeight: 700,
@@ -343,7 +343,7 @@ const poppins = {
 
 
 export const Typographies = {
-      h1,
+      h23,
       h2,
       h3,
       h4,
