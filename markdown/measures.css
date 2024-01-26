@@ -1,0 +1,28 @@
+
+:root {
+    --measureBorderRadiusRadius1: 4px;    
+    --measureDimensionMeasureExample: 200px;    
+    --measureBorderRadiusRadius2: 58px;    
+    --measureBorderRadiusRadius3: 4px;    
+    /* No radius */
+    --measureDimensionBorderRadiusNone: 0px;    
+    --measureDimensionBorderRadiusSmall: 3px;    
+    --measureDimensionBorderRadiusDefault: 5px;    
+    --measureDimensionBorderRadiusMedium: 8px;    
+    --measureDimensionBorderRadiusLarge: 12px;    
+    /* Essentially a circle */
+    --measureDimensionBorderRadiusFull: 999px;    
+    --measureDimensionSpacing0: 0px;    
+    --measureDimensionSpacing2: 2px;    
+    --measureDimensionSpacing4: 4px;    
+    --measureDimensionSpacing8: 8px;    
+    --measureDimensionSpacing12: 12px;    
+    --measureDimensionSpacing16: 16px;    
+    --measureDimensionSpacing20: 20px;    
+    --measureDimensionSpacing24: 24px;    
+    --measureDimensionSpacing28: 28px;    
+    --measureDimensionSpacing32: 32px;    
+    --measureDimensionSpacing36: 36px;    
+    --measureDimensionSpacing40: 40px;    
+    --measureDimensionOpacityDisabled: 50px;    
+}
