@@ -1,0 +1,337 @@
+
+.typographyH1 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 57px;
+  line-height: 64px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyH2 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 43px;
+  line-height: 50px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyH3 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyH4 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyH5 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 29px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographySale 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyLargeLead 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyMediumLead 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyButtonLabel 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyParagraph 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographySmallParagraph 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTinyParagraph 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+/* typewriter font test */
+.typographyImpactLabel 
+{ 
+  
+  font-family: "Impact Label";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+/* importing test */
+.typographyPoppins 
+{ 
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyH1 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 57px;
+  line-height: 64px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyH2 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 43px;
+  line-height: 50px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyH3 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyH4 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyH5 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 29px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographySale 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyLargeLead 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyMediumLead 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyButtonLabel 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyParagraph 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographySmallParagraph 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTinyParagraph 
+{ 
+  
+  font-family: "Advent Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+/* typewriter font test */
+@mixin typographyImpactLabel 
+{ 
+  
+  font-family: "Impact Label";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+/* importing test */
+@mixin typographyPoppins 
+{ 
+  
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
