@@ -1,0 +1,17 @@
+{
+  "font": {
+    "-1-token": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "Alkalami"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "regular"
+        }
+      },
+      "type": "font"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "text": {
+    "string-example": {
+      "value": "Hello world",
+      "type": "text"
+    }
+  }
+}
