@@ -1,9 +1,6 @@
 
 :root {
-    --measureBorderRadiusRadius1: 4px;    
     --measureDimensionMeasureExample: 200px;    
-    --measureBorderRadiusRadius2: 58px;    
-    --measureBorderRadiusRadius3: 4px;    
     /* No radius */
     --measureDimensionBorderRadiusNone: 0px;    
     --measureDimensionBorderRadiusSmall: 3px;    
@@ -25,4 +22,7 @@
     --measureDimensionSpacing36: 36px;    
     --measureDimensionSpacing40: 40px;    
     --measureDimensionOpacityDisabled: 50px;    
+    --measureBorderRadiusRadius1: 4px;    
+    --measureBorderRadiusRadius2: 58px;    
+    --measureBorderRadiusRadius3: 4px;    
 }
