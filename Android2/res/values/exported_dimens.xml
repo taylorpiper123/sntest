@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+ 
+
+    <!-- 
+        No radius 
+    -->
+    <dimen name="dimension_border_radius_none">0dp</dimen>
+    <dimen name="dimension_border_radius_small">3dp</dimen>
+    <dimen name="dimension_border_radius_default">5dp</dimen>
+    <dimen name="dimension_border_radius_medium">8dp</dimen>
+    <dimen name="dimension_border_radius_large">12dp</dimen>
+    <!-- 
+        Essentially a circle 
+    -->
+    <dimen name="dimension_border_radius_full">999dp</dimen> 
+
+    <dimen name="dimension_spacing_0">0dp</dimen>
+    <dimen name="dimension_spacing_2">2dp</dimen>
+    <dimen name="dimension_spacing_4">4dp</dimen>
+    <dimen name="dimension_spacing_8">8dp</dimen>
+    <dimen name="dimension_spacing_12">12dp</dimen>
+    <dimen name="dimension_spacing_16">16dp</dimen>
+    <dimen name="dimension_spacing_20">20dp</dimen>
+    <dimen name="dimension_spacing_24">24dp</dimen>
+    <dimen name="dimension_spacing_28">28dp</dimen>
+    <dimen name="dimension_spacing_32">32dp</dimen>
+    <dimen name="dimension_spacing_36">36dp</dimen>
+    <dimen name="dimension_spacing_40">40dp</dimen> 
+
+    <dimen name="dimension_spacing_semantic_stack_gap">1dp</dimen> 
+
+    <dimen name="dimension_opacity_disabled">50dp</dimen> 
+
+    <dimen name="dimension_shadow_focus_ring_width">3dp</dimen> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+</resources>
