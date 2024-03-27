@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  
-
-    <dimen name="dimension_measure_example">200dp</dimen> 
+ 
 
     <!-- 
         No radius 
@@ -30,19 +29,20 @@
     <dimen name="dimension_spacing_36">36dp</dimen>
     <dimen name="dimension_spacing_40">40dp</dimen> 
 
-    <dimen name="dimension_opacity_disabled">50dp</dimen> 
- 
- 
- 
- 
- 
- 
- 
- 
+    <dimen name="dimension_spacing_semantic_stack_gap">1dp</dimen> 
 
-    <dimen name="border_radius_radius_1">4dp</dimen>
-    <dimen name="border_radius_radius_2">58dp</dimen>
-    <dimen name="border_radius_radius_3">4dp</dimen> 
+    <dimen name="dimension_opacity_disabled">50dp</dimen> 
+
+    <dimen name="dimension_shadow_focus_ring_width">3dp</dimen> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 
